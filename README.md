@@ -5,3 +5,6 @@
 - For pose detection:
             python3 aakraman.py {image} 
 - A json file with the same  image name would be created
+
+-PREREQ:
+	OPENCV
